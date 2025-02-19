@@ -1,0 +1,27 @@
+/alx-portfilio-backend
+│
+├── app/
+│   ├── __init__.py         # Flask initialization
+│   ├── routes.py           # App routes
+|   |-models.py
+│   ├── services/           # Utility services
+│   │   |── nlp_service.py   # NLP-related functions
+|   |   |-- tests/
+|   |        L test_service_nlp.py
+│   ├── static/              # Static assets
+│   │   ├── css/
+│   │   │   └── styles.css    # CSS styles 
+│   │   └── js/
+│   │       └── chatbot.js    # JavaScript logic
+│   └── templates/            # HTML templates
+│       ├── base.html         # Base layout 
+│       ├── index.html        # Home page 
+│
+├── data/     # Folder for model and dataset files
+│   ├── file_nlp/   # Pretrained NLP model directory
+│   └── dataset/
+│       └── faq_dataset.json   # Dataset containing FAQs and their labels
+│
+├── README.md           # Project documentation
+├── requirements.txt         # Python dependencies
+├── config.py         # Configuration file for Flask
