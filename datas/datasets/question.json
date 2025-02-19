@@ -1,0 +1,1382 @@
+[
+    {
+        "idQuestion": "shiq1",
+        "question": "Do you offer free shipping?",
+        "answer": "Yes, we offer free shipping for orders above a certain amount. Check our shipping policy for more details.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq2",
+        "question": "How long does shipping take?",
+        "answer": "Standard shipping takes 5-7 business days, while expedited shipping takes 2-3 business days.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq3",
+        "question": "Do you offer same-day delivery?",
+        "answer": "Same-day delivery is available in certain areas for orders placed before noon.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq4",
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, we ship internationally to over 50 countries.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq5",
+        "question": "How can I track my order?",
+        "answer": "You will receive a tracking number via email once your order has been shipped.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq6",
+        "question": "Can I change my shipping address after placing an order?",
+        "answer": "Shipping addresses can be changed before the order has been dispatched. Contact customer service for assistance.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq7",
+        "question": "Do you ship to P.O. boxes?",
+        "answer": "Yes, we ship to P.O. boxes for some items. Please verify eligibility during checkout.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq8",
+        "question": "Is expedited shipping available?",
+        "answer": "Yes, expedited shipping is available for faster delivery.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq9",
+        "question": "Can I pick up my order in-store?",
+        "answer": "Yes, you can choose in-store pickup for some products at no extra charge.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq10",
+        "question": "Do you ship to APO/FPO addresses?",
+        "answer": "Yes, we do ship to military addresses.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq11",
+        "question": "Can I ship my order to multiple addresses?",
+        "answer": "At the moment, we only allow one shipping address per order.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq12",
+        "question": "What is the cost of shipping?",
+        "answer": "Shipping costs vary depending on the destination and the size of the order. You can check the shipping cost at checkout.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq13",
+        "question": "Can I ship a gift to someone else?",
+        "answer": "Yes, you can select a different shipping address at checkout and even include a gift message.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq14",
+        "question": "How do I change my shipping method?",
+        "answer": "You can change the shipping method before the order is processed by contacting customer service.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq15",
+        "question": "What happens if my package is lost or damaged during shipping?",
+        "answer": "If your package is lost or damaged, please contact customer support to file a claim.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq16",
+        "question": "Can I expedite shipping after placing an order?",
+        "answer": "If the order has not yet been shipped, you can contact us to expedite the shipping.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq17",
+        "question": "What countries do you ship to?",
+        "answer": "We ship to more than 50 countries. You can view the full list on our website.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq18",
+        "question": "Do you offer gift wrapping?",
+        "answer": "Yes, we offer gift wrapping for most items.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq19",
+        "question": "What happens if the shipping carrier doesn\u2019t deliver on time?",
+        "answer": "If the shipping carrier delays your package, please contact us for assistance and we will help resolve the issue.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq20",
+        "question": "Do you deliver on weekends?",
+        "answer": "We offer weekend delivery for certain locations, depending on the shipping service chosen.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq21",
+        "question": "Can I request a specific delivery time?",
+        "answer": "Specific delivery times can be requested with certain shipping carriers, depending on the location.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq22",
+        "question": "How do I know when my order has been shipped?",
+        "answer": "You will receive an email notification with tracking information once your order has been shipped.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq23",
+        "question": "Can I redirect my package if I am not home?",
+        "answer": "Yes, you can contact the shipping carrier to reroute the package to a different address.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq24",
+        "question": "What is the delivery time for international orders?",
+        "answer": "International shipping typically takes 7-14 business days depending on the destination.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq25",
+        "question": "Do you offer express international shipping?",
+        "answer": "Yes, express international shipping is available for most destinations.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq26",
+        "question": "How do I change my delivery address after shipping?",
+        "answer": "Once the order is shipped, it is difficult to change the delivery address. Contact customer support for assistance.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq27",
+        "question": "Can I ship items separately?",
+        "answer": "Yes, some products may be shipped separately if they come from different warehouses.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq28",
+        "question": "Do you offer overnight shipping?",
+        "answer": "Yes, overnight shipping is available for urgent orders.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq29",
+        "question": "What should I do if I provided the wrong address?",
+        "answer": "If you realize you've provided the wrong address, contact us immediately to correct it before shipping.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq30",
+        "question": "Do you provide shipping insurance?",
+        "answer": "Yes, shipping insurance is available for an additional fee.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq31",
+        "question": "Can I ship to an address outside my home country?",
+        "answer": "Yes, we offer international shipping to many countries worldwide.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq32",
+        "question": "What should I do if my tracking number isn\u2019t working?",
+        "answer": "Please contact customer service if your tracking number isn\u2019t working, and we\u2019ll assist you.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq33",
+        "question": "How do I know if my order is eligible for free shipping?",
+        "answer": "Free shipping applies to orders above a certain value. You can check the eligibility at checkout.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq34",
+        "question": "Can I change the shipping method after placing an order?",
+        "answer": "You may be able to modify the shipping method before the order is processed by contacting our support team.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq35",
+        "question": "Do you deliver to hotels or businesses?",
+        "answer": "Yes, we deliver to hotels and businesses. Ensure you provide accurate details when placing your order.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq36",
+        "question": "Can I schedule a delivery time?",
+        "answer": "Some shipping methods allow you to schedule a delivery window. Check the available options during checkout.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq37",
+        "question": "How do I cancel shipping after placing an order?",
+        "answer": "You can cancel your order before it ships by contacting our customer service team.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq38",
+        "question": "Can I track my international order?",
+        "answer": "Yes, all international orders come with a tracking number that you can use to monitor the shipment.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq39",
+        "question": "What is the delivery time for local orders?",
+        "answer": "Local orders are usually delivered within 1-3 business days.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq40",
+        "question": "Do you offer same-day delivery for international orders?",
+        "answer": "Same-day delivery is available only for local orders, not international ones.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq41",
+        "question": "Do you offer delivery notifications?",
+        "answer": "Yes, we send notifications to keep you informed about your order\u2019s status.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq42",
+        "question": "Can I have my order shipped to a different country?",
+        "answer": "Yes, you can choose an international shipping address during checkout.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq43",
+        "question": "Do you offer eco-friendly shipping options?",
+        "answer": "Yes, we offer environmentally conscious shipping options like recyclable packaging.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq44",
+        "question": "How do I track a delayed package?",
+        "answer": "If your package is delayed, you can track it using the tracking number and contact the carrier for updates.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq45",
+        "question": "Is there a shipping surcharge for certain items?",
+        "answer": "Yes, large or heavy items may have a shipping surcharge.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq46",
+        "question": "Can I use my own shipping label?",
+        "answer": "You can use your own shipping label for returns or exchanges, but not for initial orders.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq47",
+        "question": "How do I calculate shipping costs for multiple items?",
+        "answer": "Shipping costs for multiple items are calculated based on the total weight and destination. You\u2019ll see the cost during checkout.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq48",
+        "question": "Do you deliver to remote areas?",
+        "answer": "We deliver to most areas, but some remote locations may have limited shipping options.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq49",
+        "question": "How do I know if my order was shipped?",
+        "answer": "You\u2019ll receive a shipment confirmation email with tracking details once your order has been dispatched.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq50",
+        "question": "Can I delay the shipment of my order?",
+        "answer": "You can request a delayed shipment before the order is processed by contacting customer service.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq51",
+        "question": "Can I choose a different shipping address for each item in my order?",
+        "answer": "Currently, we can only ship to one address per order, but you can place separate orders for different addresses.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq52",
+        "question": "How do I know if my shipping address is correct?",
+        "answer": "Double-check your shipping details at checkout. We also send a confirmation email with your order details.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq53",
+        "question": "How do I cancel a delivery order?",
+        "answer": "Contact our customer support team immediately if you need to cancel the delivery.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq54",
+        "question": "Do you offer shipping discounts?",
+        "answer": "Yes, we provide occasional shipping discounts and promotions, especially for loyal customers.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq55",
+        "question": "What happens if the shipping address is incorrect?",
+        "answer": "If the address is incorrect, the package may be delayed or returned to us. Please contact us to correct the address promptly.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq56",
+        "question": "Can I have my order shipped to a friend?",
+        "answer": "Yes, you can ship your order to any address, including that of a friend or family member.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq57",
+        "question": "Do you offer gift cards that can be sent with a delivery?",
+        "answer": "Yes, you can add a gift card to your order to be delivered with your products.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq58",
+        "question": "How do I get a discount on shipping?",
+        "answer": "You can use promo codes or sign up for our newsletter to receive special offers on shipping.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq59",
+        "question": "Do you charge for delivery on returns?",
+        "answer": "Return shipping may be free, depending on our return policy. Check the return instructions for details.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "shiq60",
+        "question": "How can I change the delivery address after shipping?",
+        "answer": "Contact our customer service team immediately if the package hasn\u2019t been delivered yet.",
+        "label": "shipping"
+    },
+    {
+        "idQuestion": "genq1",
+        "question": "What are your opening hours?",
+        "answer": "We are open Monday to Friday, from 9 AM to 6 PM.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq2",
+        "question": "Where is your store located?",
+        "answer": "Our store is located at 123 Main Street, City Center.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq3",
+        "question": "What is your contact email address?",
+        "answer": "You can reach us at support@ourstore.com.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq4",
+        "question": "Can I get in touch with customer service?",
+        "answer": "Yes, our customer service is available via email and phone.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq5",
+        "question": "Do you offer customer support?",
+        "answer": "Yes, we offer 24/7 customer support via email and live chat.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq6",
+        "question": "What is your company's mission?",
+        "answer": "Our mission is to provide high-quality products and exceptional customer service.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq7",
+        "question": "Do you have a physical store?",
+        "answer": "Yes, we have a physical store in City Center.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq8",
+        "question": "Can I visit your office?",
+        "answer": "Yes, you can visit our office during business hours.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq9",
+        "question": "Do you offer gift cards?",
+        "answer": "Yes, we offer gift cards in various denominations.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq10",
+        "question": "Where can I find your privacy policy?",
+        "answer": "Our privacy policy is available at the bottom of our website.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq11",
+        "question": "How do I get updates on your products?",
+        "answer": "You can sign up for our newsletter on our website.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq12",
+        "question": "Are you open on holidays?",
+        "answer": "We are closed on major holidays but offer special promotions on certain holidays.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq13",
+        "question": "Do you have a mobile app?",
+        "answer": "Yes, we have a mobile app available for download on the App Store and Google Play.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq14",
+        "question": "Can I leave a review about your products?",
+        "answer": "Yes, we encourage customers to leave reviews on our product pages.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq15",
+        "question": "What is your policy on customer feedback?",
+        "answer": "We value customer feedback and use it to improve our products and services.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq16",
+        "question": "Are there any discounts available?",
+        "answer": "Yes, we frequently offer discounts through promotions on our website.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq17",
+        "question": "How can I get your newsletter?",
+        "answer": "You can subscribe to our newsletter on our website\u2019s homepage.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq18",
+        "question": "What is your return policy?",
+        "answer": "Returns are accepted within 30 days with a valid receipt.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq19",
+        "question": "Do you have any promotions this month?",
+        "answer": "Yes, we have a seasonal promotion. Check our promotions page for details.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq20",
+        "question": "Can I get help with my account?",
+        "answer": "Yes, our customer service team can help you with account-related queries.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq21",
+        "question": "Do you have a rewards program?",
+        "answer": "Yes, we offer a rewards program where you earn points for every purchase.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq22",
+        "question": "What should I do if I have an issue with my order?",
+        "answer": "Please contact our customer service for assistance with your order.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq23",
+        "question": "Can I change my order after it has been placed?",
+        "answer": "Once an order is placed, it cannot be modified, but you can contact customer service for support.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq24",
+        "question": "Do you offer product recommendations?",
+        "answer": "Yes, we suggest products based on your browsing history and preferences.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq25",
+        "question": "Can I get a quote for a bulk order?",
+        "answer": "Yes, please contact our sales team for bulk order quotes.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq26",
+        "question": "Do you offer gift wrapping?",
+        "answer": "Yes, we offer gift wrapping for all orders.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq27",
+        "question": "What is your warranty on products?",
+        "answer": "We offer a 1-year warranty on most of our products.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq28",
+        "question": "How can I get a refund?",
+        "answer": "Refunds are issued to the original payment method within 7 business days of receiving the returned item.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq29",
+        "question": "Can I track my order?",
+        "answer": "Yes, you can track your order using the tracking number sent via email.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq30",
+        "question": "Do you accept international customers?",
+        "answer": "Yes, we ship to over 50 countries worldwide.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq31",
+        "question": "How do I cancel my subscription?",
+        "answer": "You can cancel your subscription by logging into your account and navigating to the subscription settings.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq32",
+        "question": "Do you have any eco-friendly products?",
+        "answer": "Yes, we offer a selection of eco-friendly and sustainable products.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq33",
+        "question": "Can I speak to a live representative?",
+        "answer": "Yes, you can speak to a live representative during business hours via live chat.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq34",
+        "question": "Do you sell refurbished products?",
+        "answer": "Yes, we offer certified refurbished products at discounted prices.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq35",
+        "question": "What do I do if my product arrives damaged?",
+        "answer": "Please contact our customer service team immediately for assistance with returns.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq36",
+        "question": "Are your products covered by insurance?",
+        "answer": "We do not provide insurance, but we offer warranties on many products.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq37",
+        "question": "Do you offer pre-order options?",
+        "answer": "Yes, you can pre-order selected products on our website.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq38",
+        "question": "What is your shipping policy?",
+        "answer": "We offer free standard shipping on orders over $50 within the U.S.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq39",
+        "question": "Do you offer installation services?",
+        "answer": "Yes, we provide installation services for certain products.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq40",
+        "question": "Can I change my shipping address?",
+        "answer": "Once the order is processed, the shipping address cannot be changed.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq41",
+        "question": "Can I receive updates on my order status?",
+        "answer": "Yes, you will receive updates via email as soon as your order is shipped.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq42",
+        "question": "How can I contact the sales team?",
+        "answer": "You can contact our sales team through the contact form on our website or by calling our toll-free number.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq43",
+        "question": "How do I know if an item is in stock?",
+        "answer": "Product availability is displayed on the product page, and we notify you if an item is out of stock.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq44",
+        "question": "Can I add items to my cart after checkout?",
+        "answer": "Once you complete checkout, the items cannot be added, but you can place a new order.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq45",
+        "question": "Do you offer price matching?",
+        "answer": "Yes, we offer price matching for identical products from authorized retailers.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq46",
+        "question": "What should I do if I receive the wrong product?",
+        "answer": "Please contact our customer service to arrange for a return and exchange.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq47",
+        "question": "Can I request a specific delivery date?",
+        "answer": "Delivery dates are estimated, but you can request a preferred time slot for delivery.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq48",
+        "question": "What happens if I miss my delivery?",
+        "answer": "If you miss a delivery, we will reschedule a second attempt at no additional charge.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq49",
+        "question": "Do you offer a student discount?",
+        "answer": "Yes, we offer a 10% discount for students with a valid student ID.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq50",
+        "question": "Can I remove an item from my cart?",
+        "answer": "Yes, you can remove items from your cart before proceeding to checkout.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq51",
+        "question": "Are there any age restrictions on your products?",
+        "answer": "Some of our products may have age restrictions. Please check the product details for more information.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq52",
+        "question": "Can I sign up for product notifications?",
+        "answer": "Yes, you can sign up to be notified when an out-of-stock product becomes available again.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq53",
+        "question": "Do you offer customer loyalty rewards?",
+        "answer": "Yes, we have a loyalty program where you can earn points for every purchase.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq54",
+        "question": "Can I save my payment information for future purchases?",
+        "answer": "Yes, you can securely save your payment details in your account settings.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq55",
+        "question": "How can I reset my password?",
+        "answer": "You can reset your password by clicking on the \"Forgot Password\" link on the login page.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq56",
+        "question": "Do you offer a trial period for subscriptions?",
+        "answer": "Yes, we offer a 30-day free trial for most subscription services.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq57",
+        "question": "Can I schedule a pickup for my return?",
+        "answer": "Yes, you can schedule a return pickup through our customer service.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq58",
+        "question": "What should I do if my order is delayed?",
+        "answer": "Please contact our customer service team to check the status of your order.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq59",
+        "question": "Do you have a catalog of your products?",
+        "answer": "Yes, you can view our product catalog online or request a physical copy.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "genq60",
+        "question": "Can I cancel my order after it has been shipped?",
+        "answer": "Once the order is shipped, it cannot be canceled, but you can return it once received.",
+        "label": "general"
+    },
+    {
+        "idQuestion": "proq1",
+        "question": "What types of products do you offer?",
+        "answer": "We offer high-quality items across several categories including electronics, home goods, and fashion.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq2",
+        "question": "Are your products available in different colors?",
+        "answer": "Yes, many of our products come in multiple colors.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq3",
+        "question": "Do you sell electronics?",
+        "answer": "Yes, we have a wide range of electronics, from smartphones to home appliances.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq4",
+        "question": "Can I order a product in bulk?",
+        "answer": "Yes, we offer bulk purchasing options. Please contact our sales team for more details.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq5",
+        "question": "Do you offer customizable products?",
+        "answer": "Yes, we offer customization options for certain products. Check the product page for details.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq6",
+        "question": "What brand of products do you sell?",
+        "answer": "We sell a variety of top brands in all categories.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq7",
+        "question": "Do you sell organic products?",
+        "answer": "Yes, we have a selection of organic products, particularly in the food and beauty categories.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq8",
+        "question": "Are your products eco-friendly?",
+        "answer": "Many of our products are eco-friendly, including biodegradable and recyclable options.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq9",
+        "question": "What is the warranty period for your products?",
+        "answer": "Most products come with a 1-year warranty.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq10",
+        "question": "How can I find more details about a product?",
+        "answer": "You can find detailed information about our products on each product's page on our website.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq11",
+        "question": "Do you offer refurbished products?",
+        "answer": "Yes, we offer certified refurbished products at a discounted price.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq12",
+        "question": "What types of clothes do you sell?",
+        "answer": "We sell a wide variety of clothing, including casual wear, formal attire, and accessories.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq13",
+        "question": "Can I return a product if I don\u2019t like it?",
+        "answer": "Yes, returns are accepted within 30 days with a valid receipt.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq14",
+        "question": "Do you have seasonal products?",
+        "answer": "Yes, we offer products specific to certain seasons like winter apparel or summer accessories.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq15",
+        "question": "Are there any product bundles available?",
+        "answer": "Yes, we offer product bundles for a discounted price.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq16",
+        "question": "Do you have exclusive products?",
+        "answer": "Yes, we occasionally offer limited edition and exclusive products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq17",
+        "question": "What should I do if the product I want is out of stock?",
+        "answer": "You can sign up for a notification when the product is back in stock.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq18",
+        "question": "Can I request a product that is not listed on your website?",
+        "answer": "Yes, you can request products by contacting our customer service team.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq19",
+        "question": "Are your products ethically sourced?",
+        "answer": "Yes, we ensure that our products are sourced from responsible and ethical suppliers.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq20",
+        "question": "Do you have a product catalog?",
+        "answer": "Yes, you can view and download our product catalog from our website.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq21",
+        "question": "How do I know if a product will fit me?",
+        "answer": "We provide size charts for most of our clothing and footwear items.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq22",
+        "question": "Can I preorder a product?",
+        "answer": "Yes, we accept preorders for certain items that are coming soon.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq23",
+        "question": "Are there any new arrivals in your store?",
+        "answer": "Yes, we regularly update our store with new products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq24",
+        "question": "How do I know if the product is authentic?",
+        "answer": "We only sell authentic products from authorized brands and manufacturers.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq25",
+        "question": "Do you offer any specialty products?",
+        "answer": "Yes, we have specialty items in categories like health, tech, and gourmet food.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq26",
+        "question": "Can I see a product before buying it?",
+        "answer": "You can visit our physical store to view products before purchasing.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq27",
+        "question": "Do you offer any samples of products?",
+        "answer": "Yes, we offer product samples for some items, especially in beauty and food categories.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq28",
+        "question": "Do you sell mobile phones?",
+        "answer": "Yes, we sell the latest smartphones from leading brands.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq29",
+        "question": "Are your products suitable for all age groups?",
+        "answer": "Yes, we offer products for all age groups, from children to adults.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq30",
+        "question": "Can I gift a product to someone?",
+        "answer": "Yes, we offer gift wrapping for all products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq31",
+        "question": "Are there any discounts on your products?",
+        "answer": "Yes, we regularly offer discounts, especially during seasonal sales and promotions.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq32",
+        "question": "Do you offer international shipping for products?",
+        "answer": "Yes, we ship to over 50 countries.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq33",
+        "question": "Can I get a recommendation for products?",
+        "answer": "Yes, we provide personalized recommendations based on your preferences and browsing history.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq34",
+        "question": "Do you offer any loyalty programs for frequent shoppers?",
+        "answer": "Yes, we have a rewards program where you earn points on every purchase.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq35",
+        "question": "Are your products covered by insurance?",
+        "answer": "Most of our high-ticket items come with optional insurance.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq36",
+        "question": "Can I reserve a product online?",
+        "answer": "Yes, you can reserve certain products online for in-store pickup.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq37",
+        "question": "What do I do if my product is defective?",
+        "answer": "If a product is defective, please contact customer support to initiate a return or exchange.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq38",
+        "question": "Do you sell gift cards?",
+        "answer": "Yes, we offer gift cards in various denominations.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq39",
+        "question": "How can I find out when new products are released?",
+        "answer": "You can sign up for notifications and newsletters to stay updated.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq40",
+        "question": "Can I receive a discount if I buy a certain amount of products?",
+        "answer": "Yes, we offer bulk purchase discounts for some products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq41",
+        "question": "Do you have any environmentally friendly products?",
+        "answer": "Yes, we have a range of eco-friendly products in different categories.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq42",
+        "question": "Do your products come with instructions?",
+        "answer": "Yes, most of our products come with detailed instructions or guides.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq43",
+        "question": "Can I request a special product feature?",
+        "answer": "Please contact our customer service to inquire about custom features or special orders.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq44",
+        "question": "Do you offer replacements for damaged products?",
+        "answer": "Yes, we offer replacements for products that are damaged upon arrival.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq45",
+        "question": "Can I compare products on your website?",
+        "answer": "Yes, you can compare multiple products by selecting the \"compare\" option on product pages.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq46",
+        "question": "Do you offer any organic food products?",
+        "answer": "Yes, we offer a variety of organic food products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq47",
+        "question": "Can I buy a product for someone else?",
+        "answer": "Yes, you can purchase products as gifts and have them shipped directly to the recipient.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq48",
+        "question": "Are there any limited-time product offers?",
+        "answer": "Yes, we regularly run limited-time offers on specific products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq49",
+        "question": "Can I purchase a warranty for my product?",
+        "answer": "Yes, we offer extended warranties on many products.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq50",
+        "question": "Are your products tested for quality?",
+        "answer": "Yes, all our products undergo rigorous quality testing.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq51",
+        "question": "What is the return policy for sale items?",
+        "answer": "Sale items can be returned within 15 days, but they must be unused and in original packaging.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq52",
+        "question": "Can I check the stock of a product in-store?",
+        "answer": "Yes, you can check stock availability for our physical store online or by calling.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq53",
+        "question": "Do you have any exclusive product releases?",
+        "answer": "Yes, we offer exclusive products that are only available through our website.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq54",
+        "question": "Do you sell food products?",
+        "answer": "Yes, we sell a wide range of gourmet and packaged food items.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq55",
+        "question": "Are your products available on other platforms?",
+        "answer": "Yes, our products are available on major e-commerce platforms like Amazon and eBay.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq56",
+        "question": "Do you offer personalized gifts?",
+        "answer": "Yes, we offer personalized gifts with custom engraving options.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq57",
+        "question": "How do I know if a product will be restocked?",
+        "answer": "You can subscribe to be notified when the product is back in stock.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq58",
+        "question": "Are your products affordable?",
+        "answer": "We offer a wide range of products to suit all budgets.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq59",
+        "question": "Can I use multiple coupons on a single order?",
+        "answer": "Generally, only one coupon can be applied per order.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "proq60",
+        "question": "How can I find more information about a product\u2019s ingredients?",
+        "answer": "Ingredient lists for food and cosmetic products are available on their respective product pages.",
+        "label": "produt"
+    },
+    {
+        "idQuestion": "retq1",
+        "question": "How can I return an item?",
+        "answer": "Returns are accepted within 30 days with a valid receipt or proof of purchase.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq2",
+        "question": "What is the return policy?",
+        "answer": "You can return items within 30 days of purchase, provided they are unused and in original packaging.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq3",
+        "question": "Do I need a receipt to return an item?",
+        "answer": "Yes, a receipt or proof of purchase is required for returns.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq4",
+        "question": "Can I return a product after opening it?",
+        "answer": "Items that have been opened can be returned if they are defective or damaged.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq5",
+        "question": "Do you accept returns for sale items?",
+        "answer": "Sale items are eligible for returns if they are unused and within the return window.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq6",
+        "question": "How do I return a product?",
+        "answer": "You can return products via our return portal or visit our store for in-person returns.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq7",
+        "question": "Can I return an online purchase to the store?",
+        "answer": "Yes, online purchases can be returned at our physical store.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq8",
+        "question": "How long do I have to return an item?",
+        "answer": "You have 30 days to return items for a full refund or exchange.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq9",
+        "question": "Can I exchange an item?",
+        "answer": "Yes, exchanges are available for items of the same value and category.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq10",
+        "question": "What happens if I lose my receipt?",
+        "answer": "If you lose your receipt, we can offer a store credit or exchange based on the order history.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq11",
+        "question": "Do you accept returns for used products?",
+        "answer": "We only accept returns for used products if they are defective or damaged.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq12",
+        "question": "How can I track my return?",
+        "answer": "You will receive a confirmation email once your return is processed.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq13",
+        "question": "Can I return an item without the original packaging?",
+        "answer": "Items must be returned with the original packaging to receive a full refund.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq14",
+        "question": "What do I do if my product is defective?",
+        "answer": "Contact customer support to arrange for a return or exchange for a defective product.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq15",
+        "question": "How do I initiate a return?",
+        "answer": "Start a return by visiting our website\u2019s return portal or contacting customer support.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq16",
+        "question": "Can I get a refund for my return?",
+        "answer": "Yes, eligible returns are refunded to the original payment method.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq17",
+        "question": "Can I return a gift?",
+        "answer": "Yes, gifts can be returned for store credit or an exchange.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq18",
+        "question": "How do I return a product I bought as a gift?",
+        "answer": "The gift recipient can return the product using the gift receipt or contact customer service for assistance.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq19",
+        "question": "Do you offer free returns?",
+        "answer": "We offer free returns for certain products. Please check the return policy for details.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq20",
+        "question": "How do I return a faulty item?",
+        "answer": "If an item is faulty, you can return it through our return process for a full refund or replacement.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq21",
+        "question": "Can I return a product after the return window has passed?",
+        "answer": "Returns are accepted only within the specified return window, but please contact us for assistance if you need help.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq22",
+        "question": "Do you accept returns for opened software or digital products?",
+        "answer": "Digital products and software can only be returned if they are defective.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq23",
+        "question": "How long does it take to get my refund?",
+        "answer": "Refunds are typically processed within 7-10 business days after the item is returned.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq24",
+        "question": "Can I return a product without a box?",
+        "answer": "Items should be returned in their original packaging to ensure they are eligible for a full refund.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq25",
+        "question": "Can I cancel my order before it's shipped?",
+        "answer": "Orders can be canceled before they are shipped by contacting our customer service team.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq26",
+        "question": "What is your refund policy for returned items?",
+        "answer": "Refunds are issued to the original payment method upon the approval of the return.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq27",
+        "question": "Can I return an item if I don\u2019t like it?",
+        "answer": "Items can be returned within the return window for any reason, provided they are unused and in original condition.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq28",
+        "question": "How do I know if my return was processed?",
+        "answer": "You will receive an email confirming that your return has been processed and your refund issued.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq29",
+        "question": "How do I get a replacement for a returned item?",
+        "answer": "After we process your return, you can request a replacement if the product is defective.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq30",
+        "question": "What is your return policy for international orders?",
+        "answer": "International orders can be returned within 30 days of receipt, but return shipping fees are the responsibility of the customer.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq31",
+        "question": "Can I return an item I bought from another store?",
+        "answer": "Items purchased at other stores need to be returned to the original store as per their return policy.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq32",
+        "question": "Can I return a customized product?",
+        "answer": "Customized products are generally not eligible for return unless they are defective.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq33",
+        "question": "Do you accept returns for personal care items?",
+        "answer": "Personal care items can be returned if unopened and unused.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq34",
+        "question": "How do I return an item if I didn\u2019t like it?",
+        "answer": "As long as the item is unused and within the return window, you can return it for a full refund or exchange.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq35",
+        "question": "Can I return a product if I changed my mind?",
+        "answer": "Yes, returns are accepted within the return window as long as the product is unused and in original condition.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq36",
+        "question": "How do I return a gift card?",
+        "answer": "Gift cards are non-returnable and cannot be refunded.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq37",
+        "question": "What is the return process for defective electronics?",
+        "answer": "Defective electronics can be returned for a full refund or exchange within the return window.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq38",
+        "question": "How do I return an online-only item?",
+        "answer": "Online-only items can be returned via our online return portal.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq39",
+        "question": "What happens if I miss the return window?",
+        "answer": "Returns outside of the return window are not accepted, but please contact us for further assistance.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq40",
+        "question": "Can I return a pre-order item?",
+        "answer": "Pre-order items can be returned once they are received, within the return window.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq41",
+        "question": "Do you accept returns for opened video games?",
+        "answer": "Opened video games can only be returned if they are defective or damaged.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq42",
+        "question": "Can I return a product to any store?",
+        "answer": "Returns should be made at the store where the product was purchased or via our online return process.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq43",
+        "question": "Do you offer exchanges for clothing?",
+        "answer": "Clothing can be exchanged for a different size or color, subject to availability.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq44",
+        "question": "Can I return an item without a proof of purchase?",
+        "answer": "Returns without proof of purchase may be eligible for store credit or exchange, depending on the item.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq45",
+        "question": "How do I return an item purchased with a gift card?",
+        "answer": "Items purchased with a gift card can be returned for a refund to the original form of payment, including a gift card.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq46",
+        "question": "What do I do if my return is not accepted?",
+        "answer": "If your return is rejected, you can contact customer service to discuss your options.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq47",
+        "question": "Can I return a sale item for a refund?",
+        "answer": "Sale items can be returned for a full refund if they meet our return criteria.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq48",
+        "question": "How do I return an item through your website?",
+        "answer": "You can initiate a return through our return portal on the website, following the instructions provided.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq49",
+        "question": "Can I return an item if I didn\u2019t use it?",
+        "answer": "Unused items within the return window are eligible for a refund or exchange.",
+        "label": "return"
+    },
+    {
+        "idQuestion": "retq50",
+        "question": "Do I have to pay for return shipping?",
+        "answer": "Return shipping may be free depending on the reason for the return, such as a defective product. Please refer to our return policy for full details.",
+        "label": "return"
+    }
+]

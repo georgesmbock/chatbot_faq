@@ -1,0 +1,231 @@
+idQuestion,question,answer,label
+shiq1,Do you offer free shipping?,"Yes, we offer free shipping for orders above a certain amount. Check our shipping policy for more details.",shipping
+shiq2,How long does shipping take?,"Standard shipping takes 5-7 business days, while expedited shipping takes 2-3 business days.",shipping
+shiq3,Do you offer same-day delivery?,Same-day delivery is available in certain areas for orders placed before noon.,shipping
+shiq4,Do you offer international shipping?,"Yes, we ship internationally to over 50 countries.",shipping
+shiq5,How can I track my order?,You will receive a tracking number via email once your order has been shipped.,shipping
+shiq6,Can I change my shipping address after placing an order?,Shipping addresses can be changed before the order has been dispatched. Contact customer service for assistance.,shipping
+shiq7,Do you ship to P.O. boxes?,"Yes, we ship to P.O. boxes for some items. Please verify eligibility during checkout.",shipping
+shiq8,Is expedited shipping available?,"Yes, expedited shipping is available for faster delivery.",shipping
+shiq9,Can I pick up my order in-store?,"Yes, you can choose in-store pickup for some products at no extra charge.",shipping
+shiq10,Do you ship to APO/FPO addresses?,"Yes, we do ship to military addresses.",shipping
+shiq11,Can I ship my order to multiple addresses?,"At the moment, we only allow one shipping address per order.",shipping
+shiq12,What is the cost of shipping?,Shipping costs vary depending on the destination and the size of the order. You can check the shipping cost at checkout.,shipping
+shiq13,Can I ship a gift to someone else?,"Yes, you can select a different shipping address at checkout and even include a gift message.",shipping
+shiq14,How do I change my shipping method?,You can change the shipping method before the order is processed by contacting customer service.,shipping
+shiq15,What happens if my package is lost or damaged during shipping?,"If your package is lost or damaged, please contact customer support to file a claim.",shipping
+shiq16,Can I expedite shipping after placing an order?,"If the order has not yet been shipped, you can contact us to expedite the shipping.",shipping
+shiq17,What countries do you ship to?,We ship to more than 50 countries. You can view the full list on our website.,shipping
+shiq18,Do you offer gift wrapping?,"Yes, we offer gift wrapping for most items.",shipping
+shiq19,What happens if the shipping carrier doesn’t deliver on time?,"If the shipping carrier delays your package, please contact us for assistance and we will help resolve the issue.",shipping
+shiq20,Do you deliver on weekends?,"We offer weekend delivery for certain locations, depending on the shipping service chosen.",shipping
+shiq21,Can I request a specific delivery time?,"Specific delivery times can be requested with certain shipping carriers, depending on the location.",shipping
+shiq22,How do I know when my order has been shipped?,You will receive an email notification with tracking information once your order has been shipped.,shipping
+shiq23,Can I redirect my package if I am not home?,"Yes, you can contact the shipping carrier to reroute the package to a different address.",shipping
+shiq24,What is the delivery time for international orders?,International shipping typically takes 7-14 business days depending on the destination.,shipping
+shiq25,Do you offer express international shipping?,"Yes, express international shipping is available for most destinations.",shipping
+shiq26,How do I change my delivery address after shipping?,"Once the order is shipped, it is difficult to change the delivery address. Contact customer support for assistance.",shipping
+shiq27,Can I ship items separately?,"Yes, some products may be shipped separately if they come from different warehouses.",shipping
+shiq28,Do you offer overnight shipping?,"Yes, overnight shipping is available for urgent orders.",shipping
+shiq29,What should I do if I provided the wrong address?,"If you realize you've provided the wrong address, contact us immediately to correct it before shipping.",shipping
+shiq30,Do you provide shipping insurance?,"Yes, shipping insurance is available for an additional fee.",shipping
+shiq31,Can I ship to an address outside my home country?,"Yes, we offer international shipping to many countries worldwide.",shipping
+shiq32,What should I do if my tracking number isn’t working?,"Please contact customer service if your tracking number isn’t working, and we’ll assist you.",shipping
+shiq33,How do I know if my order is eligible for free shipping?,Free shipping applies to orders above a certain value. You can check the eligibility at checkout.,shipping
+shiq34,Can I change the shipping method after placing an order?,You may be able to modify the shipping method before the order is processed by contacting our support team.,shipping
+shiq35,Do you deliver to hotels or businesses?,"Yes, we deliver to hotels and businesses. Ensure you provide accurate details when placing your order.",shipping
+shiq36,Can I schedule a delivery time?,Some shipping methods allow you to schedule a delivery window. Check the available options during checkout.,shipping
+shiq37,How do I cancel shipping after placing an order?,You can cancel your order before it ships by contacting our customer service team.,shipping
+shiq38,Can I track my international order?,"Yes, all international orders come with a tracking number that you can use to monitor the shipment.",shipping
+shiq39,What is the delivery time for local orders?,Local orders are usually delivered within 1-3 business days.,shipping
+shiq40,Do you offer same-day delivery for international orders?,"Same-day delivery is available only for local orders, not international ones.",shipping
+shiq41,Do you offer delivery notifications?,"Yes, we send notifications to keep you informed about your order’s status.",shipping
+shiq42,Can I have my order shipped to a different country?,"Yes, you can choose an international shipping address during checkout.",shipping
+shiq43,Do you offer eco-friendly shipping options?,"Yes, we offer environmentally conscious shipping options like recyclable packaging.",shipping
+shiq44,How do I track a delayed package?,"If your package is delayed, you can track it using the tracking number and contact the carrier for updates.",shipping
+shiq45,Is there a shipping surcharge for certain items?,"Yes, large or heavy items may have a shipping surcharge.",shipping
+shiq46,Can I use my own shipping label?,"You can use your own shipping label for returns or exchanges, but not for initial orders.",shipping
+shiq47,How do I calculate shipping costs for multiple items?,Shipping costs for multiple items are calculated based on the total weight and destination. You’ll see the cost during checkout.,shipping
+shiq48,Do you deliver to remote areas?,"We deliver to most areas, but some remote locations may have limited shipping options.",shipping
+shiq49,How do I know if my order was shipped?,You’ll receive a shipment confirmation email with tracking details once your order has been dispatched.,shipping
+shiq50,Can I delay the shipment of my order?,You can request a delayed shipment before the order is processed by contacting customer service.,shipping
+shiq51,Can I choose a different shipping address for each item in my order?,"Currently, we can only ship to one address per order, but you can place separate orders for different addresses.",shipping
+shiq52,How do I know if my shipping address is correct?,Double-check your shipping details at checkout. We also send a confirmation email with your order details.,shipping
+shiq53,How do I cancel a delivery order?,Contact our customer support team immediately if you need to cancel the delivery.,shipping
+shiq54,Do you offer shipping discounts?,"Yes, we provide occasional shipping discounts and promotions, especially for loyal customers.",shipping
+shiq55,What happens if the shipping address is incorrect?,"If the address is incorrect, the package may be delayed or returned to us. Please contact us to correct the address promptly.",shipping
+shiq56,Can I have my order shipped to a friend?,"Yes, you can ship your order to any address, including that of a friend or family member.",shipping
+shiq57,Do you offer gift cards that can be sent with a delivery?,"Yes, you can add a gift card to your order to be delivered with your products.",shipping
+shiq58,How do I get a discount on shipping?,You can use promo codes or sign up for our newsletter to receive special offers on shipping.,shipping
+shiq59,Do you charge for delivery on returns?,"Return shipping may be free, depending on our return policy. Check the return instructions for details.",shipping
+shiq60,How can I change the delivery address after shipping?,Contact our customer service team immediately if the package hasn’t been delivered yet.,shipping
+genq1,What are your opening hours?,"We are open Monday to Friday, from 9 AM to 6 PM.",general
+genq2,Where is your store located?,"Our store is located at 123 Main Street, City Center.",general
+genq3,What is your contact email address?,You can reach us at support@ourstore.com.,general
+genq4,Can I get in touch with customer service?,"Yes, our customer service is available via email and phone.",general
+genq5,Do you offer customer support?,"Yes, we offer 24/7 customer support via email and live chat.",general
+genq6,What is your company's mission?,Our mission is to provide high-quality products and exceptional customer service.,general
+genq7,Do you have a physical store?,"Yes, we have a physical store in City Center.",general
+genq8,Can I visit your office?,"Yes, you can visit our office during business hours.",general
+genq9,Do you offer gift cards?,"Yes, we offer gift cards in various denominations.",general
+genq10,Where can I find your privacy policy?,Our privacy policy is available at the bottom of our website.,general
+genq11,How do I get updates on your products?,You can sign up for our newsletter on our website.,general
+genq12,Are you open on holidays?,We are closed on major holidays but offer special promotions on certain holidays.,general
+genq13,Do you have a mobile app?,"Yes, we have a mobile app available for download on the App Store and Google Play.",general
+genq14,Can I leave a review about your products?,"Yes, we encourage customers to leave reviews on our product pages.",general
+genq15,What is your policy on customer feedback?,We value customer feedback and use it to improve our products and services.,general
+genq16,Are there any discounts available?,"Yes, we frequently offer discounts through promotions on our website.",general
+genq17,How can I get your newsletter?,You can subscribe to our newsletter on our website’s homepage.,general
+genq18,What is your return policy?,Returns are accepted within 30 days with a valid receipt.,general
+genq19,Do you have any promotions this month?,"Yes, we have a seasonal promotion. Check our promotions page for details.",general
+genq20,Can I get help with my account?,"Yes, our customer service team can help you with account-related queries.",general
+genq21,Do you have a rewards program?,"Yes, we offer a rewards program where you earn points for every purchase.",general
+genq22,What should I do if I have an issue with my order?,Please contact our customer service for assistance with your order.,general
+genq23,Can I change my order after it has been placed?,"Once an order is placed, it cannot be modified, but you can contact customer service for support.",general
+genq24,Do you offer product recommendations?,"Yes, we suggest products based on your browsing history and preferences.",general
+genq25,Can I get a quote for a bulk order?,"Yes, please contact our sales team for bulk order quotes.",general
+genq26,Do you offer gift wrapping?,"Yes, we offer gift wrapping for all orders.",general
+genq27,What is your warranty on products?,We offer a 1-year warranty on most of our products.,general
+genq28,How can I get a refund?,Refunds are issued to the original payment method within 7 business days of receiving the returned item.,general
+genq29,Can I track my order?,"Yes, you can track your order using the tracking number sent via email.",general
+genq30,Do you accept international customers?,"Yes, we ship to over 50 countries worldwide.",general
+genq31,How do I cancel my subscription?,You can cancel your subscription by logging into your account and navigating to the subscription settings.,general
+genq32,Do you have any eco-friendly products?,"Yes, we offer a selection of eco-friendly and sustainable products.",general
+genq33,Can I speak to a live representative?,"Yes, you can speak to a live representative during business hours via live chat.",general
+genq34,Do you sell refurbished products?,"Yes, we offer certified refurbished products at discounted prices.",general
+genq35,What do I do if my product arrives damaged?,Please contact our customer service team immediately for assistance with returns.,general
+genq36,Are your products covered by insurance?,"We do not provide insurance, but we offer warranties on many products.",general
+genq37,Do you offer pre-order options?,"Yes, you can pre-order selected products on our website.",general
+genq38,What is your shipping policy?,We offer free standard shipping on orders over $50 within the U.S.,general
+genq39,Do you offer installation services?,"Yes, we provide installation services for certain products.",general
+genq40,Can I change my shipping address?,"Once the order is processed, the shipping address cannot be changed.",general
+genq41,Can I receive updates on my order status?,"Yes, you will receive updates via email as soon as your order is shipped.",general
+genq42,How can I contact the sales team?,You can contact our sales team through the contact form on our website or by calling our toll-free number.,general
+genq43,How do I know if an item is in stock?,"Product availability is displayed on the product page, and we notify you if an item is out of stock.",general
+genq44,Can I add items to my cart after checkout?,"Once you complete checkout, the items cannot be added, but you can place a new order.",general
+genq45,Do you offer price matching?,"Yes, we offer price matching for identical products from authorized retailers.",general
+genq46,What should I do if I receive the wrong product?,Please contact our customer service to arrange for a return and exchange.,general
+genq47,Can I request a specific delivery date?,"Delivery dates are estimated, but you can request a preferred time slot for delivery.",general
+genq48,What happens if I miss my delivery?,"If you miss a delivery, we will reschedule a second attempt at no additional charge.",general
+genq49,Do you offer a student discount?,"Yes, we offer a 10% discount for students with a valid student ID.",general
+genq50,Can I remove an item from my cart?,"Yes, you can remove items from your cart before proceeding to checkout.",general
+genq51,Are there any age restrictions on your products?,Some of our products may have age restrictions. Please check the product details for more information.,general
+genq52,Can I sign up for product notifications?,"Yes, you can sign up to be notified when an out-of-stock product becomes available again.",general
+genq53,Do you offer customer loyalty rewards?,"Yes, we have a loyalty program where you can earn points for every purchase.",general
+genq54,Can I save my payment information for future purchases?,"Yes, you can securely save your payment details in your account settings.",general
+genq55,How can I reset my password?,"You can reset your password by clicking on the ""Forgot Password"" link on the login page.",general
+genq56,Do you offer a trial period for subscriptions?,"Yes, we offer a 30-day free trial for most subscription services.",general
+genq57,Can I schedule a pickup for my return?,"Yes, you can schedule a return pickup through our customer service.",general
+genq58,What should I do if my order is delayed?,Please contact our customer service team to check the status of your order.,general
+genq59,Do you have a catalog of your products?,"Yes, you can view our product catalog online or request a physical copy.",general
+genq60,Can I cancel my order after it has been shipped?,"Once the order is shipped, it cannot be canceled, but you can return it once received.",general
+proq1,What types of products do you offer?,"We offer high-quality items across several categories including electronics, home goods, and fashion.",produt
+proq2,Are your products available in different colors?,"Yes, many of our products come in multiple colors.",produt
+proq3,Do you sell electronics?,"Yes, we have a wide range of electronics, from smartphones to home appliances.",produt
+proq4,Can I order a product in bulk?,"Yes, we offer bulk purchasing options. Please contact our sales team for more details.",produt
+proq5,Do you offer customizable products?,"Yes, we offer customization options for certain products. Check the product page for details.",produt
+proq6,What brand of products do you sell?,We sell a variety of top brands in all categories.,produt
+proq7,Do you sell organic products?,"Yes, we have a selection of organic products, particularly in the food and beauty categories.",produt
+proq8,Are your products eco-friendly?,"Many of our products are eco-friendly, including biodegradable and recyclable options.",produt
+proq9,What is the warranty period for your products?,Most products come with a 1-year warranty.,produt
+proq10,How can I find more details about a product?,You can find detailed information about our products on each product's page on our website.,produt
+proq11,Do you offer refurbished products?,"Yes, we offer certified refurbished products at a discounted price.",produt
+proq12,What types of clothes do you sell?,"We sell a wide variety of clothing, including casual wear, formal attire, and accessories.",produt
+proq13,Can I return a product if I don’t like it?,"Yes, returns are accepted within 30 days with a valid receipt.",produt
+proq14,Do you have seasonal products?,"Yes, we offer products specific to certain seasons like winter apparel or summer accessories.",produt
+proq15,Are there any product bundles available?,"Yes, we offer product bundles for a discounted price.",produt
+proq16,Do you have exclusive products?,"Yes, we occasionally offer limited edition and exclusive products.",produt
+proq17,What should I do if the product I want is out of stock?,You can sign up for a notification when the product is back in stock.,produt
+proq18,Can I request a product that is not listed on your website?,"Yes, you can request products by contacting our customer service team.",produt
+proq19,Are your products ethically sourced?,"Yes, we ensure that our products are sourced from responsible and ethical suppliers.",produt
+proq20,Do you have a product catalog?,"Yes, you can view and download our product catalog from our website.",produt
+proq21,How do I know if a product will fit me?,We provide size charts for most of our clothing and footwear items.,produt
+proq22,Can I preorder a product?,"Yes, we accept preorders for certain items that are coming soon.",produt
+proq23,Are there any new arrivals in your store?,"Yes, we regularly update our store with new products.",produt
+proq24,How do I know if the product is authentic?,We only sell authentic products from authorized brands and manufacturers.,produt
+proq25,Do you offer any specialty products?,"Yes, we have specialty items in categories like health, tech, and gourmet food.",produt
+proq26,Can I see a product before buying it?,You can visit our physical store to view products before purchasing.,produt
+proq27,Do you offer any samples of products?,"Yes, we offer product samples for some items, especially in beauty and food categories.",produt
+proq28,Do you sell mobile phones?,"Yes, we sell the latest smartphones from leading brands.",produt
+proq29,Are your products suitable for all age groups?,"Yes, we offer products for all age groups, from children to adults.",produt
+proq30,Can I gift a product to someone?,"Yes, we offer gift wrapping for all products.",produt
+proq31,Are there any discounts on your products?,"Yes, we regularly offer discounts, especially during seasonal sales and promotions.",produt
+proq32,Do you offer international shipping for products?,"Yes, we ship to over 50 countries.",produt
+proq33,Can I get a recommendation for products?,"Yes, we provide personalized recommendations based on your preferences and browsing history.",produt
+proq34,Do you offer any loyalty programs for frequent shoppers?,"Yes, we have a rewards program where you earn points on every purchase.",produt
+proq35,Are your products covered by insurance?,Most of our high-ticket items come with optional insurance.,produt
+proq36,Can I reserve a product online?,"Yes, you can reserve certain products online for in-store pickup.",produt
+proq37,What do I do if my product is defective?,"If a product is defective, please contact customer support to initiate a return or exchange.",produt
+proq38,Do you sell gift cards?,"Yes, we offer gift cards in various denominations.",produt
+proq39,How can I find out when new products are released?,You can sign up for notifications and newsletters to stay updated.,produt
+proq40,Can I receive a discount if I buy a certain amount of products?,"Yes, we offer bulk purchase discounts for some products.",produt
+proq41,Do you have any environmentally friendly products?,"Yes, we have a range of eco-friendly products in different categories.",produt
+proq42,Do your products come with instructions?,"Yes, most of our products come with detailed instructions or guides.",produt
+proq43,Can I request a special product feature?,Please contact our customer service to inquire about custom features or special orders.,produt
+proq44,Do you offer replacements for damaged products?,"Yes, we offer replacements for products that are damaged upon arrival.",produt
+proq45,Can I compare products on your website?,"Yes, you can compare multiple products by selecting the ""compare"" option on product pages.",produt
+proq46,Do you offer any organic food products?,"Yes, we offer a variety of organic food products.",produt
+proq47,Can I buy a product for someone else?,"Yes, you can purchase products as gifts and have them shipped directly to the recipient.",produt
+proq48,Are there any limited-time product offers?,"Yes, we regularly run limited-time offers on specific products.",produt
+proq49,Can I purchase a warranty for my product?,"Yes, we offer extended warranties on many products.",produt
+proq50,Are your products tested for quality?,"Yes, all our products undergo rigorous quality testing.",produt
+proq51,What is the return policy for sale items?,"Sale items can be returned within 15 days, but they must be unused and in original packaging.",produt
+proq52,Can I check the stock of a product in-store?,"Yes, you can check stock availability for our physical store online or by calling.",produt
+proq53,Do you have any exclusive product releases?,"Yes, we offer exclusive products that are only available through our website.",produt
+proq54,Do you sell food products?,"Yes, we sell a wide range of gourmet and packaged food items.",produt
+proq55,Are your products available on other platforms?,"Yes, our products are available on major e-commerce platforms like Amazon and eBay.",produt
+proq56,Do you offer personalized gifts?,"Yes, we offer personalized gifts with custom engraving options.",produt
+proq57,How do I know if a product will be restocked?,You can subscribe to be notified when the product is back in stock.,produt
+proq58,Are your products affordable?,We offer a wide range of products to suit all budgets.,produt
+proq59,Can I use multiple coupons on a single order?,"Generally, only one coupon can be applied per order.",produt
+proq60,How can I find more information about a product’s ingredients?,Ingredient lists for food and cosmetic products are available on their respective product pages.,produt
+retq1,How can I return an item?,Returns are accepted within 30 days with a valid receipt or proof of purchase.,return
+retq2,What is the return policy?,"You can return items within 30 days of purchase, provided they are unused and in original packaging.",return
+retq3,Do I need a receipt to return an item?,"Yes, a receipt or proof of purchase is required for returns.",return
+retq4,Can I return a product after opening it?,Items that have been opened can be returned if they are defective or damaged.,return
+retq5,Do you accept returns for sale items?,Sale items are eligible for returns if they are unused and within the return window.,return
+retq6,How do I return a product?,You can return products via our return portal or visit our store for in-person returns.,return
+retq7,Can I return an online purchase to the store?,"Yes, online purchases can be returned at our physical store.",return
+retq8,How long do I have to return an item?,You have 30 days to return items for a full refund or exchange.,return
+retq9,Can I exchange an item?,"Yes, exchanges are available for items of the same value and category.",return
+retq10,What happens if I lose my receipt?,"If you lose your receipt, we can offer a store credit or exchange based on the order history.",return
+retq11,Do you accept returns for used products?,We only accept returns for used products if they are defective or damaged.,return
+retq12,How can I track my return?,You will receive a confirmation email once your return is processed.,return
+retq13,Can I return an item without the original packaging?,Items must be returned with the original packaging to receive a full refund.,return
+retq14,What do I do if my product is defective?,Contact customer support to arrange for a return or exchange for a defective product.,return
+retq15,How do I initiate a return?,Start a return by visiting our website’s return portal or contacting customer support.,return
+retq16,Can I get a refund for my return?,"Yes, eligible returns are refunded to the original payment method.",return
+retq17,Can I return a gift?,"Yes, gifts can be returned for store credit or an exchange.",return
+retq18,How do I return a product I bought as a gift?,The gift recipient can return the product using the gift receipt or contact customer service for assistance.,return
+retq19,Do you offer free returns?,We offer free returns for certain products. Please check the return policy for details.,return
+retq20,How do I return a faulty item?,"If an item is faulty, you can return it through our return process for a full refund or replacement.",return
+retq21,Can I return a product after the return window has passed?,"Returns are accepted only within the specified return window, but please contact us for assistance if you need help.",return
+retq22,Do you accept returns for opened software or digital products?,Digital products and software can only be returned if they are defective.,return
+retq23,How long does it take to get my refund?,Refunds are typically processed within 7-10 business days after the item is returned.,return
+retq24,Can I return a product without a box?,Items should be returned in their original packaging to ensure they are eligible for a full refund.,return
+retq25,Can I cancel my order before it's shipped?,Orders can be canceled before they are shipped by contacting our customer service team.,return
+retq26,What is your refund policy for returned items?,Refunds are issued to the original payment method upon the approval of the return.,return
+retq27,Can I return an item if I don’t like it?,"Items can be returned within the return window for any reason, provided they are unused and in original condition.",return
+retq28,How do I know if my return was processed?,You will receive an email confirming that your return has been processed and your refund issued.,return
+retq29,How do I get a replacement for a returned item?,"After we process your return, you can request a replacement if the product is defective.",return
+retq30,What is your return policy for international orders?,"International orders can be returned within 30 days of receipt, but return shipping fees are the responsibility of the customer.",return
+retq31,Can I return an item I bought from another store?,Items purchased at other stores need to be returned to the original store as per their return policy.,return
+retq32,Can I return a customized product?,Customized products are generally not eligible for return unless they are defective.,return
+retq33,Do you accept returns for personal care items?,Personal care items can be returned if unopened and unused.,return
+retq34,How do I return an item if I didn’t like it?,"As long as the item is unused and within the return window, you can return it for a full refund or exchange.",return
+retq35,Can I return a product if I changed my mind?,"Yes, returns are accepted within the return window as long as the product is unused and in original condition.",return
+retq36,How do I return a gift card?,Gift cards are non-returnable and cannot be refunded.,return
+retq37,What is the return process for defective electronics?,Defective electronics can be returned for a full refund or exchange within the return window.,return
+retq38,How do I return an online-only item?,Online-only items can be returned via our online return portal.,return
+retq39,What happens if I miss the return window?,"Returns outside of the return window are not accepted, but please contact us for further assistance.",return
+retq40,Can I return a pre-order item?,"Pre-order items can be returned once they are received, within the return window.",return
+retq41,Do you accept returns for opened video games?,Opened video games can only be returned if they are defective or damaged.,return
+retq42,Can I return a product to any store?,Returns should be made at the store where the product was purchased or via our online return process.,return
+retq43,Do you offer exchanges for clothing?,"Clothing can be exchanged for a different size or color, subject to availability.",return
+retq44,Can I return an item without a proof of purchase?,"Returns without proof of purchase may be eligible for store credit or exchange, depending on the item.",return
+retq45,How do I return an item purchased with a gift card?,"Items purchased with a gift card can be returned for a refund to the original form of payment, including a gift card.",return
+retq46,What do I do if my return is not accepted?,"If your return is rejected, you can contact customer service to discuss your options.",return
+retq47,Can I return a sale item for a refund?,Sale items can be returned for a full refund if they meet our return criteria.,return
+retq48,How do I return an item through your website?,"You can initiate a return through our return portal on the website, following the instructions provided.",return
+retq49,Can I return an item if I didn’t use it?,Unused items within the return window are eligible for a refund or exchange.,return
+retq50,Do I have to pay for return shipping?,"Return shipping may be free depending on the reason for the return, such as a defective product. Please refer to our return policy for full details.",return
